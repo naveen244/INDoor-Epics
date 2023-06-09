@@ -9,7 +9,7 @@
 <li>Contact the INDoor team for any queries or support.</li>
 
 <h1>Technologies Used</h1>
-<li>Front-end: HTML, CSS, JavaScript.</li>
+<li>Front-end: HTML, CSS, JavaScript,React.js</li>
 <li>Back-end: Node.js, Express.js</li>
 <li>Database: MongoDB.</li>
 
